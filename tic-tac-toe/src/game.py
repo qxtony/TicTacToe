@@ -78,7 +78,6 @@ class TicTacToe:
 
         y, x = self.get_cell_coordinates(value - 1)
         field = self.rows[y][x]
-        print(field, self.player.value, self.get_opponent())
 
         if field == self.player.value:
             return "Вы уже выполнили ход на эту клетку."
