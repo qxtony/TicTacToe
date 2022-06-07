@@ -16,4 +16,4 @@ Thanks to this, it becomes more pleasant to play.
 
 You can see an example of the game in the video below:
 
-[![Test](https://user-images.githubusercontent.com/71513188/172437893-cd905404-7008-4405-ade8-56bf0bd1ce30.mp4)]
+[![asciicast](https://asciinema.org/a/113463.png)](https://user-images.githubusercontent.com/71513188/172437893-cd905404-7008-4405-ade8-56bf0bd1ce30.mp4)
