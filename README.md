@@ -16,4 +16,4 @@ Thanks to this, it becomes more pleasant to play.
 
 You can see an example of the game in the video below:
 
-[![Test](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://user-images.githubusercontent.com/71513188/172437893-cd905404-7008-4405-ade8-56bf0bd1ce30.mp4))
+[![Test](https://user-images.githubusercontent.com/71513188/172437893-cd905404-7008-4405-ade8-56bf0bd1ce30.mp4)]
